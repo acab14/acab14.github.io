@@ -182,7 +182,7 @@ R4 went to other planes and saw some otherworldly sights. Could his discoveries 
 - The Feywild is collapsing (**Innominandum** absorbing its essence). In the first run, Aquandria (Fey Queen) offered fey help if party saves the Feywild. She may provide similar assistance in the second run.
 
 ##### ⚠️ MS-02k: Beastlands
-- **Status:**: In Jeapardy
+- **Status:**: In Leopardy
 
 - **Sofia missed the Fall deadline**
 - **Source:** R4 & Sofia's visit to the Beastlands (Second Run, Summer)
