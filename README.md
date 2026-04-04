@@ -26,7 +26,7 @@ The party is intercepted by **Chronologians** (time cops). They fight through a 
 
 **Year 1 Redux** sees the party split for optimized missions: Asfache unites the fire clans, Una finds Meiko and her dragon father Oman, Smolder infiltrates the Drow Underdark, R4 makes alliances in the mortal realm and beyond, Rat secures HIS Tower and sends Carxi to raid Tiamat's Horde, Sofia awakens travel trees toward an Ent Army. 
 
-**Year 2 Redux** pushes into the **Mystica campaign** — Alexandria, Tyre, Lutetia — as R4 leads forces against shadow creatures plaguing the western continent. Steven surrenders the Everscale to a dying Essyliss. The Amulet of Plane Shift fails en route to the **Dragonsmoot**, stranding the party in **Sylvania**.
+**Year 2 Redux** pushes into the **Mystica campaign** — Alexandria, Tyre, Lutetia — as R4 leads forces against shadow creatures plaguing the western continent. Steven surrenders the Everscale to a dying Essyliss. The Amulet of Plane Shift fails en route to the **Dragonsmoot**, stranding the party in **Sylvania**. It is Year 2 Winter.
 
 ## Quest Log
 
