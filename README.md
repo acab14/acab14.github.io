@@ -26,7 +26,9 @@ The party is intercepted by **Chronologians** (time cops). They fight through a 
 
 **Year 1 Redux** sees the party split for optimized missions: Asfache unites the fire clans, Una finds Meiko and her dragon father Oman, Smolder infiltrates the Drow Underdark, R4 makes alliances in the mortal realm and beyond, Rat secures HIS Tower and sends Carxi to raid Tiamat's Horde, Sofia awakens travel trees toward an Ent Army. 
 
-**Year 2 Redux** pushes into the **Mystica campaign** — Alexandria, Tyre, Lutetia — as R4 leads forces against shadow creatures plaguing the western continent. Steven surrenders the Everscale to a dying Essyliss. The Amulet of Plane Shift fails en route to the **Dragonsmoot**, stranding the party in **Sylvania**. It is Year 2 Winter.
+**Year 2 Redux** pushes into the **Mystica campaign** — Alexandria, Tyre, Lutetia — as R4 leads forces against shadow creatures plaguing the western continent. Steven surrenders the Everscale to a dying Essyliss. The Amulet of Plane Shift fails en route to the **Dragonsmoot**, stranding the party in **Sylvania**. They meet **Vessa** (copper dragon guide), unite the forgetful god's doll with Asfache's green orb (It gains partial awareness — knows its body is the giant robot and where to find it), and remove Rat's shadow mark by amputating and regenerating his leg. It is Year 2 Winter.
+
+**Winter, Year 2 Redux** — the Dragonsmoot. **Una's Dracogenesis completes** via the Breath of Becoming (Oman's fire + Kereska's magic). **IO** declares his purpose: remake the World Serpent. Essyliss is missing; Null's amulet is gone. IO tasks the party with **bringing Essyliss to the Outlands**. Before he can finish speaking about Null, **Thoth teleports the party to the dying Feywild**. The **Innominandum fight** begins — 5 of 6 roots severed in the first round, blighted fey appearing, battle in progress.
 
 ## Quest Log
 
@@ -101,14 +103,39 @@ R4 went to other planes and saw some otherworldly sights. Could his discoveries 
 
 ---
 
-#### MS-08: The Dragonsmoot
-**Status:** Active (diverted)
+#### MS-08: The Dragonsmoot ✅ ATTENDED
+**Status:** Resolved (spawned new quests)
 
 **Source:** Una & Oman heard the summons (Year 1 Redux, Fall)
 
-**Objective:** A raspy voice compelled all dragons: *"I call a Dragonsmoot. When winter falls on the Material Plane, meet in the Outlands just beyond Sigil."* Una intended to attend.
+**What Happened:**
+- Party diverted to **Sylvania** by failed Amulet of the Planes check. Met **Vessa** (young copper dragon) who detected Una's Dracogenesis and Rat's shadow mark; she guided them to the Dragonsmoot
+- En route, party **amputated Rat's leg and regenerated it** — fully removing Tiamat's shadow dragon mark. Severed leg kept in bag of holding
+- **IO arrived** and triggered **Una's Dracogenesis**. It stalled between forms. **Kereska** recognized the **Breath of Becoming** — **Oman** breathed his full fire on Una while Kereska shaped the flames. She emerged a **young golden dragon**
+- **IO declared his purpose:** remake the World Serpent. Discovered **Essyliss is missing** (the binding force — World Serpent cannot cohere without her). Discovered **Null's Amulet is gone** — saw a flashback of Carxi stealing it
+- **Semuanya** disparaged Essyliss; **Steven** publicly defended her. Steven learned Essyliss is a **World Serpent member** — the binding force
+- **Tiamat** detected the shadow mark on the severed leg in Rat's bag, stormed toward the party. **IO intervened**
+- Both **Bahamut** and **Tiamat** reacted to Una's transformation — Bahamut saw the metallic ideal; Tiamat saw a dragon with a mortal mind she can't predict. Both extensions of IO have taken a direct interest in Una
+- **IO tasked the party** with bringing Essyliss to the Outlands. Was about to say something about **Null** — interrupted by **Thoth teleporting the party to the Feywild**
 
-**Complication:** The party headed to the Dragonsmoot but the **Amulet of the Planes failed** (DC 15 Intelligence check — on failure, travelers end up at a random destination), stranding them in **Sylvania**. The party is **currently in Sylvania** (active session location).
+**Spawned Quests:** Find Essyliss and bring her to IO. What does IO want regarding Null? What do Bahamut and Tiamat want with Una?
+
+---
+
+#### ⌛ MS-09: Find Essyliss
+**Status:** Active — IO's direct task
+
+**Source:** IO (Asgorath), at the Dragonsmoot
+
+**Objective:** Find Essyliss and bring her to the Outlands so IO can remake the World Serpent.
+
+**What We Know:** The World Serpent has nine members. Eight were present at the Dragonsmoot — **Essyliss was not**. IO revealed she is the **binding force** — the connective tissue that holds the Serpent together. Without her, the nine members can coexist but cannot **cohere** into the World Serpent. Remaking the World Serpent is the nuclear option against Ghroth, and it cannot happen without Essyliss.
+
+**Steven's Connection:** Steven was Essyliss's prophet. He carried the **Everscale** — a physical piece of the World Serpent — for years before surrendering it back to her. At the Dragonsmoot, when Semuanya disparaged Essyliss, Steven was the one who rose to her defense. He knows her better than anyone in the party. Thoth has been **unable to contact Essyliss** — she is not responding to any divine communication.
+
+**The Question:** Why isn't she answering? Where has she gone? Steven's bond with the Everscale may be the key to finding her.
+
+**Key Characters:** Steven, Essyliss, IO
 
 ---
 
@@ -122,22 +149,26 @@ R4 went to other planes and saw some otherworldly sights. Could his discoveries 
 **First Run:** Rat raided Tiamat's Vault in Avernus (Year 3 Fall) almost perfectly - he made it out with only one scratch. Then, he brought the Amulet of Null to the mortal plane. Null was freed, spared the party, busted open The Rock, flew to the Edge of Existence, and killed gods — giving Ghroth's forces the upper hand. Mordenkainen had planned to use the amulet to create a space in the Null Realm or ransom it to Bahamut, but Null's release made those plans impossible.
 
 **Second Run:** Rat sent **Carxi** to retrieve the Amulet of Null from Tiamat's horde and bring it to **Mordenkainen** in Avernus. Rat also delivered Mordenkainen's future self's **spellbook** (obtained in Farylse), enabling advanced research. Null remains sealed.
-**Mordenkainen's Plan:** Mordenkainen is using the amulet to create a pathway to the **Null Realm** — a place where nothing exists but is safe from Ghroth. This is his **escape plan** in case the battle against Ghroth fails. 
+**Mordenkainen's Plan:** Mordenkainen is using the amulet to create a pathway to the **Null Realm** — a place where nothing exists but is safe from Ghroth. This is his **escape plan** in case the battle against Ghroth fails.
 
-**Key Characters:** Rat, Carxi, Mordenkainen
+**Dragonsmoot Update:** IO discovered Null's Amulet is gone from Tiamat's horde — saw a flashback of Carxi stealing it. IO was **about to say something about Null** to the party but was interrupted by Thoth teleporting them away. What does IO want regarding Null? The World Serpent cannot be fully remade with a fragment sealed away — but Null's release in the First Run was catastrophic. **Pure cliffhanger.**
+
+**Key Characters:** Rat, Carxi, Mordenkainen, IO
 
 ---
 
 #### MS-07: Save the Feywild & Shadowfell
-**Status:** Active
+**Status:** Active — **Innominandum fight in progress**
 
 **Objective:** Prevent the collapse of the Feywild and Shadowfell.
 
-**Background:** Thoril, Marvin, and Callahan slew **Orcus**, who had weakened the bonds between the Material Plane, Feywild, and Shadowfell. Marvin sealed his soul to prop up the Feywild; Callahan did the same for the Shadowfell. Now **Innominandum** is absorbing the Feywild's essence and is growing stronger with every passing moment.
+**Background:** Thoril, Marvin, and Callahan slew **Orcus**, who had weakened the bonds between the Material Plane, Feywild, and Shadowfell. Marvin sealed his soul to prop up the Feywild; Callahan did the same for the Shadowfell. Now **Innominandum** is absorbing the Feywild's essence and is growing stronger with every passing moment. 
 
-**Thoril's Plan:** In the first run, after the Boop of Truth snapped Thoril out of his depression, he teleported away declaring he would save Marvin and Callahan. In the second run, Thoril was accompanied by many party members. They discover **Immominandum** in the Feywild. Rat contacts **Thoth** to arrange divine support (Freya & Kratos). Thoth says he needs time to gather support - all divine beings are currently occupied taking measures against Groths forces. The party leaves Thoril to investigate what **Immominandum** is doing, while they head to Mystica. Steven is portalled to the Feywild by Essyliss after their argument. Thoril urged him to hurry — Innominandum seems to be growing stronger every moment. 
+**Current — Innominandum Fight (In Progress):** **Thoth** teleported the party directly from the Dragonsmoot to the dying Feywild. Innominandum appears as a massive gnarled tree-entity draining **Marvin's Seal** through six roots. **Freya**, **Kratos**, and **Thoril** fight Innominandum above the canopy but cannot kill it while it feeds. The party severed **5 of 6 roots in the first round**. **Blighted Fey creatures** (corrupted dryads, treants — once-beautiful fey now consumed by Innominandum) have appeared, heading for the seal. Battle is mid-session with **1 root remaining**. Marvin's spirit flickers inside the golden seal dome — tired but still holding.
 
-**Key Characters:** Thoril, Marvin, Callahan, Innominandum
+**What Comes Next:** Drive Innominandum out, pursue it into the Far Realm using Primordial Shadow fragments, and destroy it. Then Thoril will reseal the Feywild. The Shadowfell still needs saving...
+
+**Key Characters:** Thoril, Marvin, Callahan, Innominandum, Thoth, Freya, Kratos
 
 ---
 
@@ -227,21 +258,25 @@ R4 went to other planes and saw some otherworldly sights. Could his discoveries 
 
 ---
 
-#### Steven — The Fallen Prophet
+#### Steven — The Fallen Prophet, Essyliss's Seeker
 
 **Divine Patron:** Essyliss
 
-**Status:** Leading LIMA. Purged shapeshifters across dwarven cities with Sofia. Holds the **writ to silence the Siren Song**. Currently in Sylvania with the party.
+**Status:** Leading LIMA. Purged shapeshifters across dwarven cities with Sofia. Holds the **writ to silence the Siren Song**. 
 
 **Crisis:** Broke his "I am a vegetarian" tenet — Ghroth-mutated teeth tempted him with greater power (2d8 bite), triggering **"THE CRAVING."** Surrendered the Everscale to a dying Essyliss, **losing his tenet boons**.
 
-#### Rat — Thoth's Champion, Shadow-Marked
+**Dragonsmoot:** Learned Essyliss is a **World Serpent member** — the binding force that holds the nine together. When **Semuanya** disparaged Essyliss, Steven rose to her defense publicly. **IO tasked the party with bringing Essyliss to the Outlands** — the World Serpent cannot be remade without her. Steven's quest to find her begins.
+
+#### Rat — Thoth's Champion
 
 **Divine Patron:** Thoth
 
-**Status:** Carries the **Aspect of Truth**, the **Doshenkana poison**, and has HIS Tower secured with a tinker skeleton crew. Sent Carxi to handle the Amulet of Null preemptively. Currently in Sylvania with the party.
+**Status:** Carries the **Aspect of Truth**, the **Doshenkana poison**, and has HIS Tower secured with a tinker skeleton crew. Sent Carxi to handle the Amulet of Null preemptively. 
 
-**Crisis:** scratched by a **shadow dragon** from Tiamat's horde. Caspian's scrying network is watching his every move.
+**Shadow Mark Resolved:** En route to the Dragonsmoot, the party **amputated Rat's leg and regenerated it**, fully removing Tiamat's shadow dragon mark. The **severed leg** (still carrying the mark) is in Rat's bag of holding. At the Dragonsmoot, **Tiamat detected the mark on the severed leg** and stormed toward the party — **IO intervened**. The leg remains a potential liability (or advantage???).
+
+**Remaining:** Caspian's scrying network is still watching the party's every move.
 
 #### R4 — The Warforged King
 
@@ -259,13 +294,13 @@ R4 went to other planes and saw some otherworldly sights. Could his discoveries 
 
 **Crisis:** **Baz's reaper** is hunting him relentlessly (see SQ-06). Bram is the only one who can land the killing blow on Baz — but Baz only needs to catch him once.
 
-#### Asfache — Champion of Kratos
+#### Asfache — Champion of Kratos, Navigator to the Pool
 
 **Divine Patron:** Kratos
 
 **Status:** United the fire clans. Conquered Unda, Fax, Brevis, Ignotus. Took the **Field of Fire** (fire resistance + extra damage die). Lycanthrope. Griffon rider. Fudgies Fountain as base. Zeimia and Caelum remain unconquered.
 
-**Crisis:** Carries a **glowing green orb** that manifested **Memory-Cal** — not the real Cal but Asfache's memory of him. Dreams of the Pool of Memories.
+**The Doll, The Orb, and The Pool :** In Sylvania, Asfache passed out and dreamed of the Pool of Memories — saw **something dragon-shaped and wrong** feeding on it. Simultaneously, the doll moved and the orb glowed. The party united the **doll and orb** — the god inside the doll gained partial awareness, said the orb was his and would help him remember, and identified the **giant robot** as his body. The doll can lead them to it's body once they are back on the mortal plane. 
 
 #### Sofia — The Ent Mother
 
@@ -275,13 +310,15 @@ R4 went to other planes and saw some otherworldly sights. Could his discoveries 
 
 **Crisis:** **Missed the Cat Lord's Fall deadline** — party was diverted to Sylvania. The Beastlands alliance and its committed forces are in jeopardy (see MS-02k). The Cat Lord made a specific request and was ignored.
 
-#### Una — The Dragon Becoming
+#### Una — The Golden Dragon
 
 **Divine Patron:** Freya (aspect carrier), Kereska (guidance)
 
-**Status:** Found her father **Oman** (ancient gold dragon). Allied with **Meiko**. Promised to protect Meiko’s **golden dragon egg**. Undergoing **Dracogenesis** - a very rare transformation that can happens to those of Draconic lineage.
+**Status:** Found her father **Oman** (ancient gold dragon). Allied with **Meiko**. Promised to protect Meiko’s **golden dragon egg**. Currently a dragon.
 
-**Crisis:** Why is she undergoing Dracogenesis? She’s also been summoned to the Dragonsmoot under threat of being compelled. Why was the moot called and who called it?
+**Dracogenesis Complete (Dragonsmoot):** IO’s arrival triggered Una’s transformation — it stalled between forms, trapping her. **Kereska** recognized the ancient rite: the **Breath of Becoming**. **Oman** breathed his full fire on Una while Kereska shaped the flames, weaving divine magic into the process. She emerged a **young golden dragon** — forged in her father’s flame. The defining moment of the Dragonsmoot.
+
+**Between Two Dragons:** Both **Bahamut** and **Tiamat** reacted to Una’s transformation — and they saw very different things. Bahamut recognized the metallic ideal made manifest: a golden dragon born through devotion and choice. Tiamat saw something far more unsettling: a dragon who kept her mortal mind — one who builds alliances, thinks in decades, and cannot be predicted or controlled. Both of IO’s extensions have taken a direct interest in Una. She didn’t ask to become a symbol, but in a gathering where metallic and chromatic dragonkind can barely tolerate each other, she is the only being alive who drew the attention of *both*. What that means — and what they might demand of her — remains to be seen.
 
 #### Smolder — The Underdark Operator
 
@@ -317,11 +354,15 @@ R4 went to other planes and saw some otherworldly sights. Could his discoveries 
 
 #### SQ-02: The Giant Robot (The Forgotten God's Titan)
 
-**Status:** Active (location unconfirmed)
+**Status:** Active — The doll knows where its body is
 
 **Source:** Farylse exploration / Wereshark Grotto one-shot
 
 **What We Know:** A **5-mile-tall clay titan adorned with carvings**, sealed inside is a curious, puzzle-loving god. It seems to have forgotten everything about who it once was. This forgotten god is able to activate the statue. When the party left Farysle, the statue crumbled, but Una was able to save the god by transferring it into a doll with her **Divinity Transfer Spell**. It has been with the party since they left Farysle.
+
+**Sylvania Breakthrough:** In Sylvania, Asfache passed out and the doll moved at the same moment — the doll said of Asfache's green orb: *"That's mine — it will help me... remember."* The party united the doll and orb. The forgetful god gained partial awareness and said it **remembers where its body is**: the giant robot. The god is cheerful, confused, and puzzle-loving. 
+
+**Objective:** Reunite the god with the titan body. Find the Pool of Memories before it's consumed.
 
 #### SQ-03: Eara & the Heart of the Forest
 
